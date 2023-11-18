@@ -1,6 +1,10 @@
 Release Highlights
 ==================
 
+Version 3.0.18 (UNRELEASED):
+----------------------------
+ * New CMake option LIBICAL_BUILD_EXAMPLES to disable building the examples
+
 Version 3.0.17 (14 October 2023):
 ---------------------------------
  * Improved Android support
